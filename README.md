@@ -2,3 +2,13 @@
 
 # codespaces-demo
 This is a demo repo for CI and CD
+
+## How-to-run
+```bash
+git clone git@github.com:kalilamali/codespaces-demo.git
+cd codespaces-demo
+python -m venv ~/.codespaces-demo
+source ~/.codespaces-demo/bin/activate
+make install
+python hello.py
+```
