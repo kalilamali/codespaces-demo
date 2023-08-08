@@ -3,6 +3,8 @@
 # codespaces-demo
 This is a demo repo for CI and CD using GitHub codespaces and GitHub actions.
 
+[![Workflow](https://img.youtube.com/vi/yl1Z41_Ey-w/0.jpg)](https://youtu.be/yl1Z41_Ey-w)
+
 ## How-to-run
 ```bash
 git clone git@github.com:kalilamali/codespaces-demo.git
