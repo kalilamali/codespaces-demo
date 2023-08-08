@@ -1,7 +1,7 @@
 [![Codespaces Python 3.10](https://github.com/kalilamali/codespaces-demo/actions/workflows/main.yml/badge.svg)](https://github.com/kalilamali/codespaces-demo/actions/workflows/main.yml)
 
 # codespaces-demo
-This is a demo repo for CI and CD
+This is a demo repo for CI and CD using GitHub codespaces and GitHub actions.
 
 ## How-to-run
 ```bash
