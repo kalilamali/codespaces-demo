@@ -3,7 +3,7 @@
 # codespaces-demo
 This is a demo repo for CI and CD using GitHub codespaces and GitHub actions.
 
-[![Workflow](https://img.youtube.com/vi/yl1Z41_Ey-w/0.jpg)](https://youtu.be/yl1Z41_Ey-w)
+[![Workflow](https://img.youtube.com/vi/zkqZU9NUSIM/0.jpg)](https://youtu.be/zkqZU9NUSIM)
 
 ## How-to-run
 ```bash
